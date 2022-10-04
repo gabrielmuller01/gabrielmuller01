@@ -1,8 +1,8 @@
 ## Olá, seja bem vindo ao meu perfil!
  <div>
   <a href="#!">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardoantonio2332&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoantonio2332&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmuller01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller01&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
@@ -20,9 +20,9 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/leonardoaat" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardo.teixeira@acad.ftec.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-ant%C3%B4nio-teixeira-23865416a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/gabee__muller" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel.polidoro123@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-muller-polidoro-327033208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
